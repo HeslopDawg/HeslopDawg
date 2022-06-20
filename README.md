@@ -1,6 +1,6 @@
 ### Hello user, I have a question why are you here? 👋
 
-- 🔭 I’m currently working on github.com/Settlement-codes & github.com/FreeHypixel
+- 🔭 I’m currently working on github.com/FreeHypixel
 - 👀 I’m currently learning C#
 
 ### Github Stats
